@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+
+# Local dataset: add deliberately after checking size / Git LFS suitability
+data/Rotten_Tomatoes_Movies3.csv
+
+# Generated model artifacts
+models/*.joblib
+models/*.pkl
+
+# Generated reports
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.jpeg
