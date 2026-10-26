@@ -94,9 +94,3 @@ The project is designed for the full ~16,639-row dataset. The CSV is intentional
 ## Tech stack
 
 Python · Pandas · NumPy · Scikit-learn · TF-IDF / NLP · Matplotlib · Seaborn · Jupyter · Joblib · Pytest · HTML · CSS · JavaScript
-
-## Portfolio positioning
-
-This is intentionally more than a notebook dump. The repository demonstrates a progression from an assessment implementation to a methodologically stronger ML pipeline and then to a product-facing experience.
-
-**The notebooks prove the ML. ReelSense is the product.**
